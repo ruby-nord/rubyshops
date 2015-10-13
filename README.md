@@ -15,6 +15,13 @@ You know a French company that is not listed? Please contribute:
 2. Add the company(ies)
 3. Submit a PullRequest
 
+Please respect some conventions:
+
+* Category should be in lowercase
+* Companies are sorted by alphabetical name
+
+Available categories (for now): agency, bootcamp, editor, product
+
 Thanks!
 
 ## License
