@@ -1,5 +1,6 @@
 Company,Website,Category,City
 9troisquarts,http://www.9troisquarts.com/,agency,Roubaix
+Adomik,http://www.adomik.com/,product,Paris
 af83,http://af83.com/,agency,Paris
 Agence Cosmic,http://agencecosmic.com/,agency,Paris
 Agorize,http://www.agorize.com/,product,Paris
@@ -7,6 +8,8 @@ Aircall,https://aircall.io/,product,Paris
 Algolia,https://www.algolia.com/,product,Paris
 Alpine Lab,http://www.alpine-lab.com/,agency,Lyon
 Appaloosa Store,https://www.appaloosa-store.com/,product,Paris
+Applidium,http://applidium.com/,agency,"Paris, Lyon"
+Augment,http://www.augment.com/,product,Paris
 Birdly,https://www.getbirdly.com/,product,Paris
 Boaterfly,http://www.boaterfly.com/,product,Paris
 Brand and Celebrities,http://www.brandandcelebrities.com,product,Paris
@@ -22,17 +25,22 @@ Cults.,https://cults3d.com/,product,Paris
 Deligreens,https://www.deligreens.com/,product,Lyon
 Dernier Cri,http://derniercri.io,agency,"Lille, Paris"
 Dimelo,http://www.dimelo.com/,product,Lille
+Dimelo,http://www.dimelo.com/,product,Paris
 Dividom,https://www.dividom.com/,product,Lille
 Doctolib,https://www.doctolib.fr/,product,Paris
 Doumit,http://www.doum.it,agency,Lille
 Drivy,https://www.drivy.com/,product,Paris
 EcoTa.co,https://ecota.co,product,Lille
 Effilab,http://www.effilab.com/,product,Boulogne-Billancourt
+Ekimetrics,https://www.ekimetrics.com/,product,Paris
 Ekylibre,http://ekylibre.com/,product,Pessac
 Email Hunter,https://emailhunter.co/,product,Lyon
 Event Corner,http://www.event-corner.com/,product,Paris
 Famest,http://www.famest.co/,product,Paris
 Faveod,http://www.faveod.com/,product,Paris
+FidMarques,https://www.fidmarques.com/,product,Paris
+Fidzup,http://www.fidzup.com/,product,Clichy
+Fizzer,https://www.fizzer.fr/,product,Dives-sur-Mer
 Frizbiz,https://www.frizbiz.com/,product,Lille
 Hi Duty Free,http://hidutyfree.com/,product,Lille
 Honestica,http://www.honestica.com/,product,Paris
@@ -40,6 +48,8 @@ Hospimedia,http://www.hospimedia.fr/,product,Lille
 Hostnfly,http://hostnfly.com,product,Paris
 iMenlo,http://www.imenlo.com,agency,Paris
 Impala Webstudio,http://www.impala-webstudio.fr/,agency,Lille
+Inch,https://inch.fr/,product,Saint-Ouen
+Je Rêve d'une Maison,http://www.jerevedunemaison.com/,product,Paris
 JobTeaser.com,http://www.jobteaser.com/fr,product,Paris
 Jumboweb,http://www.jumboweb.fr/,agency,Paris
 Key-Live,http://www.keley-live.com/,agency,Paris
@@ -60,20 +70,28 @@ LoGeek,http://www.logeek.fr,agency + product,Champdolent
 LunaWeb,http://www.lunaweb.fr/,agency,Rennes
 MediaTech Solutions,http://www.mediatech-solutions.com/,product,Paris
 misterbnb,https://www.misterbnb.com/,product,Paris
+moduloTech,http://www.modulotech.fr/,product,Paris
 MonsieurDrive.com,http://www.monsieurdrive.com/,product,"Boulogne Billancourt"
 Myeggbox,https://www.myeggbox.com/,product,Lille
 Novelys,http://www.novelys.com/,agency,Strasbourg
 Numa,https://numa.co/,incubator,Paris
+One Third,https://www.onethird.com/,product,Paris
 OnePark,https://www.onepark.fr/,product,Paris
 Ozact,http://www.ozact.net/,product,Paris
+Pandacraft,https://www.pandacraft.fr/,product,Paris
+PayCar,https://www.paycar.fr/,product,Paris
 Per Angusta,http://www.per-angusta.com/,product,Lyon
 Permigo,https://www.permigo.com/,product,Lyon
 Prium Solutions,http://prium-solutions.com/,agency,Paris
+Shopmium,https://www.shopmium.com/,product,Paris
 Silicon Salad,http://www.siliconsalad.com,agency,Lille
 Simplon.co,http://simplon.co/,bootcamp,Montreuil
 Skello,https://www.skello.io/,product,Paris
+Snapshift,https://snapshift.co/,product,Paris
 SociAddict,http://www.sociaddict.com/,agency,Paris
+Speaken,https://speaken.com/,product,Paris
 Sqreen,https://www.sqreen.io/,product,Paris
+Stuart,https://stuart.com/,product,"Paris, Lyon"
 Studio HB,http://www.studio-hb.com/,agency,Lyon
 Studio Melipone,http://www.studiomelipone.eu/,agency,Paris
 Synbioz,https://www.synbioz.com/,agency,"Lille, Nantes, Paris"
@@ -86,6 +104,7 @@ Trainline,https://www.trainline.eu/,product,Paris
 Tymate,http://tymate.com/,agency,Lille
 Vodeclic,http://vodeclic.com/,product,Levallois
 Wayz-Up,https://www.wayz-up.com/,product,Paris
+Welcome to the Jungle,https://www.welcometothejungle.co/,product,Paris
 Weroom,https://www.weroom.com/,product,Paris
 WeSave,https://www.wesave.fr,product,Paris
 What A Nice Place,http://whataniceplace.com/,product,Lille
