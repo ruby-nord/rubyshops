@@ -22,7 +22,7 @@ Please respect the following conventions:
 * Companies are sorted by alphabetical name
 * Respect naming for cities already listed: `Saint-Étienne` and not `St Étienne` or `Saint Étienne`
 
-Available categories: `agency, bootcamp, editor, product`.
+Available categories: `agency, bootcamp, editor, product, public`.
 
 Categories are not set in stone, open an issue if you want to add one.
 
